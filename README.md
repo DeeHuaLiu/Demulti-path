@@ -1,7 +1,7 @@
 # Demultipath
 ![results](./assets/results2.jpg)
 
-![results](./assets/results1.jng)
+![results](./assets/results1.jpg)
 ## Abstract
 
 Recent research into 3D reconstruction of underwater objects via Neural Radiance Fields (NeRF) has achieved notable progress.
